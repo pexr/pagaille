@@ -7,7 +7,7 @@
 
 ## Développement
 
-Dans le répertoire `./content`: le contenu [1] du futur site de `Madame/Monsieur pagaille`: http://www.pagaille.org. Le `README.md` à la racine de ce répertoire étant destiné à la page d'accueil.
+Dans le répertoire `./content`: le contenu [1] du futur site de `Madame/Monsieur pagaille`: http://www.pagaille.org. Le [README](./content/README.md) à la racine de ce répertoire étant destiné à la page d'accueil.
 
 L'idée est de converger sur un contenu `en français et au format markdown` dans un premier temps puis de basculer en html/css dans le sous répertoire `./site/fr`: site statique facilement déployable vers n'importe quel serveur pour plus de résilience ;)
 
