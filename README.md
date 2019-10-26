@@ -2,7 +2,7 @@
 
 ## Vision
 
-`Pagaille` propose des moyens d'action à tous les citoyens qui veulent aider "sans risque" à enrailler le système qui met à mal le climat et le vivant. Ces personnes engagées dans de petites actions de désobéissance civile detinées à générer de la pagaille sont appelées fièrement des `'Madame Pagaille'` et `'Monsieur Pagaille'` (en référence à la [série de livres pour enfants](https://fr.wikipedia.org/wiki/Monsieur_Madame)). Les moyens proposés sont **toujours** non-violents.
+`Pagaille` propose des moyens d'action à tous les citoyens qui veulent aider "sans risque" à enrailler le système qui détruit le climat et le vivant. Ces personnes engagées dans de petites actions de désobéissance civile detinées à générer de la pagaille sont appelées fièrement des `'Madame Pagaille'` et `'Monsieur Pagaille'` (en référence à la [série de livres pour enfants](https://fr.wikipedia.org/wiki/Monsieur_Madame)). Les moyens proposés sont **toujours** non-violents.
 
 
 ## Développement
