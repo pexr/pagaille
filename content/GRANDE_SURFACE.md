@@ -2,7 +2,7 @@
 
 En grande surface, fais-toi plaisir ! Beaucoup de pagaille à mettre ;)
 
-# Objectif
+## L'objectif
 
 L'objectif est de stresser la structure et d'interpeller les consommateurs pour une prise de conscience et donc un changement de comportement en désertant ces grandes surfaces et en privilégiant les petites enseignes locales.
 

@@ -30,7 +30,7 @@ Et bien la grande surface déraillerait ! Avec un effort infime réparti sur plu
 # Objectifs
 
 - Perturber les structures caricaturales du système (grandes surfaces, magasins de la fast-fashion, temples de la sur-consommation, etc...)
-- Générer successivement chez le citoyen: le dérangement, l'interrogation, la réflexion et enfin l'adhésion
+- Générer successivement chez le citoyen: le dérangement, l'interrogation, la réflexion et enfin l'adhésion pour un changement de comportement et une entrée en résistance active.
 - Actions non-violentes et légales à la portée de tout.e un.e chacun.e
 
 # Possibilités d'action
