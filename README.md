@@ -21,6 +21,7 @@ Trouver un.e designer pour:
 
 Une identité visuelle forte permettra de booster le message (comme a pu le faire extinction rebellion)
 
-[1] contenu non mis en forme, aucun style.
-[2] [now.sh](https://zeit.co/home), [surge.sh](https://surge.sh/)
+*Notes:*
+- [1] contenu non mis en forme, aucun style.
+- [2] [now.sh](https://zeit.co/home), [surge.sh](https://surge.sh/)
 
