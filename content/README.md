@@ -1,16 +1,17 @@
+# Pagaille
 
-> "Pour sauver la planète (et nous avec!), soyons tous des Madame/Monsieur Pagaille, légalement"
+> "Pour sauver la planète (et nous avec!), soyons tous des Monsieur/Madame Pagaille, légalement"
 
-# Le constat
+## Le constat
 
 Au fond de toi, tu le sais bien: **Le système actuel est une machine qui va tout broyer**. Tout va y passer: la planète, les animaux, les écosystèmes et les humains.
 Dirigée par les puissants de ce monde qui se gavent et ne voient pas l'effondrement tout proche, cette machine ne s'arrêtera pas.
 
 <span style="color:cyan">Il faut donc qu'on l'arrête, tous ensemble.</span>
 
-Mais comment s'y attaquer ? Tu te sens impuissant mais il y a un moyen d'enrailler cette machine, **légalement**, sans crainte pour toi et ceux que tu aimes.
+Mais comment s'y attaquer ? Tu te sens impuissant.e mais il y a un moyen d'enrailler cette machine, **légalement**, sans crainte pour toi et ceux que tu aimes.
 
-# Voici comment...
+## Voici comment...
 
 Le système actuel est ultra automatisé, optimisé. Il est donc très fragile et le moindre grain de sable vient gripper la machine.
 
@@ -25,17 +26,17 @@ Maintenant, Pour...
 Personne ne te voit, personne ne te soupçonne, c'est discret. Quasi impossible à détecter. Et franchement, si on devait "t'attraper" tu ne risquerais rien. 
 Imagine maintenant si nous étions nombreux à faire ce petit geste, régulièrement.
 
-Et bien la grande surface déraillerait ! Avec un effort infime réparti sur plusieurs "semeurs de pagaille", le désordre engendré deviendrait très vite ingérable pour cette structure habituée à ce que tout roule. Alors devenons tou.te.s un.e <span style="color:cyan">madame/monsieur Pagaille</span> !!! 
+Et bien la grande surface déraillerait ! Avec un effort infime réparti sur plusieurs "semeurs de pagaille", le désordre engendré deviendrait très vite ingérable pour cette structure habituée à ce que tout roule. Alors devenons tou.te.s un.e <span style="color:cyan">Monsieur/Madame Pagaille</span> !!! 
 
-# Objectifs
+## Objectifs
 
 - Perturber les structures caricaturales du système (grandes surfaces, magasins de la fast-fashion, temples de la sur-consommation, etc...)
 - Générer successivement chez le citoyen: le dérangement, l'interrogation, la réflexion et enfin l'adhésion pour un changement de comportement et une entrée en résistance active.
-- Actions non-violentes et légales à la portée de tout.e un.e chacun.e
+- Résister tous ensemble par des actions non-violentes et légales à la portée de tout.e un.e chacun.e
 
-# Possibilités d'action
+## Possibilités d'action
 
-<span style="color:cyan">Deviens un Madame/Monsieur Pagaille</span>...
+<span style="color:cyan">Deviens un Monsieur/Madame Pagaille</span>...
 
 - [...en grande surface](GRANDE_SURFACE.md)
 - [...en magasin de bricolage](MAGASIN_BRICOLAGE.md)
@@ -44,5 +45,9 @@ Et bien la grande surface déraillerait ! Avec un effort infime réparti sur plu
 
 N'hésite pas à prendre de **jolies photos de ta pagaille** et à les poster sur les réseaux sociaux avec le hashtag: [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
 
+## Et si...
 
-<span style="color:cyan">"Soyons tous des madame/monsieur Pagaille, maintenant, pour les vivants !!!"</span>
+- `on "m'attrape" ?`: Et bien tu t'exuses ! Et tu te mets en "sommeil" quelque temps pour te remettre de tes émotions et repartir de plus belle car un n'arrête pas un `Monsieur/Madame Pagaille` : il en va de notre planète, de nos enfants.
+- `des vigiles sont présents`: alors là, **félicitations !!!**, les `Monsieur/Madame Pagaille` de ton petit coin de Terre ont fait un super boulot. La tactique est alors simple: on stoppe tout, la structure "dérangée" va payer des agents... à ne rien faire et comme le système est bien fait, optimisé, au bout de quelques semaines d'inutilité, ces agents repartiront. Le système déteste les surcoûts (surtout humains) et une fois le calme revenu: c'est parti, les `Monsieur/Madame Pagaille` pourront repartir à l'action !
+
+<span style="color:cyan">"Soyons tous des Monsieur/Madame Pagaille, maintenant, pour les vivants !!!"</span>

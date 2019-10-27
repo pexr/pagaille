@@ -1,6 +1,6 @@
-# Madame/Monsieur Pagaille dans un magasin de fringues
+# Monsieur/Madame Pagaille dans un magasin de fringues
 
-Les magasins de fringues de fast-fashion sont facilement perturbés par des `Madame/Monsieur Pagaille` !
+Les magasins de fringues de fast-fashion sont facilement perturbés par des `Monsieur/Madame Pagaille` !
 
 ## Quelques idées de base...
 
@@ -12,4 +12,4 @@ Les magasins de fringues de fast-fashion sont facilement perturbés par des `Mad
 - La mode, c'est le côté 
 
 
-<span style="color:cyan">Madame/Monsieur Pagaille, amusez-vous !</span> et publiez vos photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
+<span style="color:cyan">Monsieur/Madame Pagaille, amusez-vous !</span> et publiez vos photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
