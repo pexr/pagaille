@@ -1,4 +1,4 @@
-# Monsieur/Madame Pagaille dans un magasin de bricolage
+# Monsieur/Madame Pagaille dans un magasin en ligne
 
 On ne va pas se mentir: le géant du web dans ce domaine est une caricature du système dévastatateur pour la planète. Il jète, traite ses salariés comme des sous-êtres... pour les milliards de dollars d'un seul homme.
 
