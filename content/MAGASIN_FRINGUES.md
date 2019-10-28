@@ -12,4 +12,4 @@ Les magasins de fringues de fast-fashion sont facilement perturbés par des `Mon
 - La mode, c'est le côté 
 
 
-<span style="color:cyan">Monsieur/Madame Pagaille, amusez-vous !</span> et publiez vos photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
+<span style="color:cyan">Monsieur/Madame Pagaille, amuse-vous !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)

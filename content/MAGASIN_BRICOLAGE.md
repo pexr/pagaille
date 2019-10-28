@@ -14,4 +14,4 @@ Un petit feutre noir indélébile et quelques traits sur des planches de sapin a
 
 
 
-<span style="color:cyan">Monsieur/Madame Pagaille, amusez-vous !</span> et publiez vos photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
+<span style="color:cyan">Monsieur/Madame Pagaille, amuse-vous !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
