@@ -9,7 +9,7 @@ Dirigée par les puissants de ce monde qui se gavent et ne voient pas l'effondre
 
 <span style="color:cyan">Il faut donc qu'on l'arrête, tous ensemble.</span>
 
-Mais comment s'y attaquer ? Tu te sens impuissant.e mais il y a un moyen d'enrailler cette machine, **légalement**, sans crainte pour toi et ceux que tu aimes.
+Mais comment s'y attaquer ? Tu te sens impuissant.e et tu as peur de t'engager car les manifestations même non-violentes sont durement réprimées. Rassure-toi, tu peux aider à enrailler cette machine, **légalement, sans crainte pour toi et ceux que tu aimes**.
 
 ## Voici comment...
 
