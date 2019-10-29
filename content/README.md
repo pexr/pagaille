@@ -47,7 +47,7 @@ N'hésite pas à prendre de **jolies photos de ta pagaille** et à les poster su
 
 ## Et si...
 
-- `on "m'attrape" ?`: Et bien tu t'excuses ! Et tu te mets en "sommeil" quelque temps pour te remettre de tes émotions et repartir de plus belle car on n'arrête pas un `Monsieur/Madame Pagaille` : il en va de notre planète, de nos enfants.
-- `des vigiles sont présents`: alors là, **félicitations !!!**, les `Monsieurs et Madames Pagaille` de ton petit coin de Terre ont fait un super boulot. La tactique est alors simple: on stoppe tout, la structure "dérangée" va payer des agents de sécurité... à ne rien faire et comme le système est bien fait, optimisé, au bout de quelques semaines d'inutilité, ces agents repartiront. Le système déteste les surcoûts (surtout humains) et une fois le calme revenu: c'est parti, les `Monsieurs et Madames Pagaille` pourront repartir joyeusement à l'action !
+- **"Mince, on m'a attrapé.e ?"**: Et bien tu t'excuses ! Et tu te mets en "sommeil" quelque temps pour te remettre de tes émotions et repartir de plus belle car on n'arrête pas un `Monsieur/Madame Pagaille` : il en va de notre planète, de nos enfants.
+- **"Oups, des vigiles sont présents !"**: alors là, **félicitations !!!**, les `Monsieurs et Madames Pagaille` de ton petit coin de Terre ont fait un super boulot. La tactique est alors simple: on stoppe tout, la structure "dérangée" va payer des agents de sécurité... à ne rien faire et comme le système est bien fait, optimisé, au bout de quelques semaines d'inutilité, ces agents repartiront. Le système déteste les surcoûts (surtout humains) et une fois le calme revenu: c'est parti, les `Monsieurs et Madames Pagaille` pourront repartir joyeusement à l'action !
 
 <span style="color:cyan">"Soyons tous des Monsieur/Madame Pagaille, maintenant, pour les vivants !!!"</span>
