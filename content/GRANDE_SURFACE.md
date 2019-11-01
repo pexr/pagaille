@@ -25,7 +25,7 @@ Soit créati.f.ve, il y a beaucoup d'aliments frais qui sont de vraies bombes ol
 Le samedi est **LE** jour du chiffre d'affaire maximum. Ca grouille de caddies, de gens pressés. Les allées sont bondées... :thinking_face: ... et si... tu prenais un caddie, tu le remplissais à raz bord de différents produits glanés dans les rayons et que tu le garais bien au milieu du passage... avant de quitter le magasin avec une simple boîte de biscuits pour savourer ton action ? Effet garanti ! Imagine le travail pour aller tout remettre à sa place alors que ça ne t'a pris qu'un petit 1/4 d'heure?
 
 - **... à plusieurs !** :star: :star:
-Tu peux faire une sortie `Pagaille` aves des potes ! Chacun son chariot, un samedi dans une grande surface ciblée: en quelques minutes, de nombreux caddies, bien remplis et sans propriétaires, encombrent le passage. Incognito, vous allez vous marrer !
+Tu peux faire une sortie `Pagaille` aves des potes ! Chacun son chariot, un samedi dans une grande surface ciblée: en quelques minutes, de nombreux caddies, bien remplis et sans propriétaires, encombrent le passage. Incognito, vous allez vous marrer ! :joy:
 
 <span style="color:cyan">Monsieur/Madame Pagaille, amuse-vous !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
 
