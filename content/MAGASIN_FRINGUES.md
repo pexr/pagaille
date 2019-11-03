@@ -9,7 +9,7 @@ Les magasins de fringues de fast-fashion sont facilement perturbés par des `Mon
 - **Déplie** ! 
   Essaie tout ce que tu peux et... ne prends rien. Laisse les fringues dépliées: le magasin va vite ressembler à une chambre d'adolescent si vous vous y métez à plusieurs :satisfied:
 
-## ... un peu plus "fort" ? :muscle:
+## ... un peu plus "fort" ?
 
 - **Odorise** ! :star: :star:
   Les magasins de mode "fast-fashion" jouent beaucoup sur le design, le côté branché, le côté rafiné, apprêté. Alors, un petite boule puante bien placée lors d'un samedi de shopping. Wow ! effet garanti ! Toutes les narines fragiles devraient rapidement décamper ! Et encore une victoire pour le/la `Monsieur/Madame Pagaille`
