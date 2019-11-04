@@ -15,6 +15,6 @@ Les magasins de fringues de fast-fashion sont facilement perturbés par des `Mon
   Les magasins de mode "fast-fashion" jouent beaucoup sur le design, le côté branché, le côté rafiné, apprêté. Alors, un petite boule puante bien placée lors d'un samedi de shopping. Wow ! effet garanti ! Toutes les narines fragiles devraient rapidement décamper ! Et encore une victoire pour le/la `Monsieur/Madame Pagaille`
 
 
-<span style="color:cyan">Monsieur/Madame Pagaille, amuse-vous !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
+<span style="color:cyan">Monsieur/Madame Pagaille, amuse-toi !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
 
 [:house:](README.md)

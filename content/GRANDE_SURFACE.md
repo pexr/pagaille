@@ -27,6 +27,6 @@ Le samedi est **LE** jour du chiffre d'affaire maximum. Ca grouille de caddies, 
 - **... à plusieurs !** :star: :star:
 Tu peux faire une sortie `Pagaille` aves des potes ! Chacun son chariot, un samedi dans une grande surface ciblée: en quelques minutes, de nombreux caddies, bien remplis et sans propriétaires, encombrent le passage. Incognito, vous allez vous marrer ! :joy:
 
-<span style="color:cyan">Monsieur/Madame Pagaille, amuse-vous !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
+<span style="color:cyan">Monsieur/Madame Pagaille, amuse-toi !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
 
 [:house:](README.md)
