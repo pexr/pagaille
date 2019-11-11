@@ -5,7 +5,7 @@ On ne va pas se mentir: le géant du web dans ce domaine est une caricature du s
 Il n'y a pas beaucoup de façon de s'attaquer à un tel monstre mais si...
 
 - **Commande et renvoie !** :star:
-  ...si les `Monsieurs/Madames Pagaille` profitaient du système, régulièrement, voire massivement et de façon concertée (le jour du Black Friday par exemple) pour commander en masse sur cette plateforme... laisser la commande partir des entrepôts... pour finalement l'annuler sans frais.
+  ...si les `Monsieurs/Madames Pagaille` profitaient du système, régulièrement, voire massivement et de façon concertée (le jour du Black Friday par exemple) pour commander en masse sur cette plateforme... laisser la commande partir des entrepôts... pour finalement l'annuler sans frais en un simple click ! Ton click anoding va engendrer des coûts importants dans la chaîne logistique. Si nous sommes nombreux, pas besoin de te faire un dessin!
 
 Imagine le manque à gagner, imagine la logistique à déployer. Là où le phénomène de retour est marginal, il pourrait devenir tel qu'il remettrait en cause son existence même. 
 
