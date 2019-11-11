@@ -19,7 +19,7 @@ L'idée est de déranger le consommateur. Au delà du désordre, une mauvaise od
 
 ... rien ne t'empêche de prendre quelques crevettes au rayon poissonnerie et d'installer quelques specimens, cachés, derrière une pile de bouteilles d'eau. Quelques jours et... beurk ! fracture des narines pour quiconque passe devant !
 
-Soit créati.f.ve, il y a beaucoup d'aliments frais qui sont de vraies bombes olfactives passés quelques jours bien cachés (Qui a dit "formage" ? :wink:...)
+Soit créati.f.ve, il y a beaucoup d'aliments frais qui sont de vraies bombes olfactives passés quelques jours bien cachés (Qui a dit "fromage" ? :wink:...)
 
 - **Joue !** :star:
 Le samedi est **LE** jour du chiffre d'affaire maximum. Ca grouille de caddies, de gens pressés. Les allées sont bondées... :thinking_face: ... et si... tu prenais un caddie, tu le remplissais à raz bord de différents produits glanés dans les rayons et que tu le garais bien au milieu du passage... avant de quitter le magasin avec une simple boîte de biscuits pour savourer ton action ? Effet garanti ! Imagine le travail pour aller tout remettre à sa place alors que ça ne t'a pris qu'un petit 1/4 d'heure?
