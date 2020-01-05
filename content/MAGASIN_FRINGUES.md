@@ -6,6 +6,7 @@ Les magasins de fringues de fast-fashion sont facilement perturbés par des `Mon
 
 - **Mélange** ! 
   Tout bête mais retrouver des chemisiers femme au rayon homme est un bon début !
+  
 - **Déplie** ! 
   Essaie tout ce que tu peux et... ne prends rien. Laisse les fringues dépliées: le magasin va vite ressembler à une chambre d'adolescent si vous vous y métez à plusieurs :satisfied:
 

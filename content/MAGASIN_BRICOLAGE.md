@@ -6,8 +6,10 @@ Les magasins de bricolage sont un terrain de jeu incroyable pour des `Monsieur/M
 
 - **Mélange !**
   Tu vois ces cartons de vis en vrac ? ... elles sont tout de même relativement bien classées par taille, type de tête... de petitse mains pagailleuses se feront un plaisir de soignement tout mélanger. L'exemple parfait de la petite action avec des conséquences importantes car pour 2 minutes de mélange, des heures de tri !
+
 - **Remplace !**
   Tu ouvres un carton de luminaire et tu y glisses quelques prises de courant. Le luminaire quant à lui sera déposé ailleurs, où bon te semble.
+  
 - **Déplace !**
   Un petite cartouche de silicone pour salle de bain au rayon jardinage, une autre à la menuiserie, des filtres pour piscine au rayon carrelage, etc... tu as d'autres idées ? Fais-toi plaisir !
 
