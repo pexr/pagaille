@@ -15,7 +15,7 @@ Les magasins de bricolage sont un terrain de jeu incroyable pour des `Monsieur/M
 
 ## ... un peu plus "fort"
 
-- **Ecris !**
+- **Gribouille !**
   Un petit feutre noir indélébile et quelques traits sur des planches de sapin au rayon menuiserie... N'hésite pas à faire un petit dessin si tu as le temps. Tu pourrais même écrire un `#Pagaille` :wink:
 
 <span style="color:cyan">Monsieur/Madame Pagaille, amuse-toi !</span> et publie tes photos avec le hashtag [#Pagaille](https://twitter.com/search?q=%23pagaille&src=typed_query)
