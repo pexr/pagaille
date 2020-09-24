@@ -31,7 +31,7 @@ Et bien la grande surface déraillerait ! Avec un effort infime réparti sur plu
 ## Objectifs
 
 - :dart: **Perturber** les structures caricaturales du système (grandes surfaces, magasins de la fast-fashion, temples de la sur-consommation, etc...)
-- :dart: **Générer** successivement chez le citoyen: le **le dérangement**, l'interrogation, la réflexion **et enfin l'adhésion** pour un changement de comportement et une entrée en résistance active.
+- :dart: **Générer** successivement chez le citoyen: **le dérangement**, l'interrogation, la réflexion **et enfin l'adhésion** pour un changement de comportement et une entrée en résistance active.
 - :dart: **Résister** tous ensemble par des actions non-violentes et légales à la portée de tout.e un.e chacun.e
 
 ## Possibilités d'action
