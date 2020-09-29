@@ -1,0 +1,81 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #4d3f3c;
+    color: whitesmoke;
+    margin-right: 2em;
+    margin-left: 2em;
+    text-align: justify;
+    text-justify: distribute;
+  }
+
+  a {
+      text-decoration: none;
+      color: whitesmoke
+  }
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.handwritten {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2em;
+}
+
+.tiles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1em;
+}
+
+.tile {
+    border-radius: 4px;
+    border-top: 2px;
+    border-color: whitesmoke;
+    padding: 2em;
+}
+
+.hvr-fade {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    overflow: hidden;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: color, background-color;
+    transition-property: color, background-color;
+}
+.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
+    background-color: #ee6f4e;
+    color:  whitesmoke;
+}
+
+.section {
+    font-size: 1em;
+}
+
+.section-intro {
+    margin: 2em;
+}
+
+.section-title {
+    font-size: 1.2em;
+}
+
+.strong-text {
+    font-weight: bolder;
+    color: #ee6f4e
+}
