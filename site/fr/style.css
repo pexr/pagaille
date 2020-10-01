@@ -10,12 +10,12 @@ body {
 
 a {
     text-decoration: none;
-    color: #ee6f4e
+    color: whitesmoke
 }
 
 a:hover {
-    border-bottom: 1px solid whitesmoke;
-    color: whitesmoke
+    border-bottom: 1px solid #ee6f4e;
+    color: #ee6f4e
 }
 
 .root {
