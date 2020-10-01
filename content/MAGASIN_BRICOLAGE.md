@@ -1,6 +1,6 @@
 # Monsieur/Madame Pagaille dans un magasin de bricolage
 
-Les magasins de bricolage sont un terrain de jeu incroyable pour des `Monsieur/Madame Pagaille` !
+Les magasins de bricolage sont des terrains de jeu incroyables pour des `Monsieur/Madame Pagaille` !
 
 ## Quelques idées de base...
 
