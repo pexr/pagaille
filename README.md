@@ -9,7 +9,7 @@ Le site `Pagaille` propose des moyens d'action à tous les citoyens qui veulent 
 Dans le répertoire `./content` se trouve le contenu du site `Monsieur/Madame pagaille` au format markdown. Le [:house: README](./content/README.md) à la racine de ce répertoire étant destiné à **la page d'accueil**. Ce répertoire de travail a permis de converger sur un contenu.
 
 Ensuite, et dans une démarche volontaire de production *low tech* [1], le contenu a été transcrit à la main au format html/css.
-L'idée était de produire un site statique facilement déployable vers n'importe quel serveur pour plus de résilience ;)
+L'idée était de produire un site statique facilement modifiable par un non technique et déployable vers n'importe quel serveur pour plus de résilience ;)
 
 Si certain.e.s se sentaient motivé.e.s pour lancer des versions dans d'autres langues, il leur suffirait de contribuer à ce dépôt en proposant de traductions dans les sous-répertoires dédiés (`./site/en, ./site/es, etc...`)
 
