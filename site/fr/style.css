@@ -59,6 +59,7 @@ a:hover {
     border-top: 2px;
     background-color: #ee6f4e;
     padding: 2em;
+    margin: 0.2em;
 }
 
 .hvr-fade {
